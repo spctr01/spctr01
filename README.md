@@ -24,9 +24,9 @@
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/spctr01" target="blank"><img align="center" src="https://raw.githubusercontent.com/spctr01/spctr01/tree/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/rakshit01" target="blank"><img align="center" src="https://raw.githubusercontent.com/spctr01/spctr01/tree/master/assetslinkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:rakshit.rk55@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/spctr01/spctr01/tree/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://twitter.com/spctr01" target="blank"><img align="center" src="https://github.com/spctr01/spctr01/tree/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/rakshit01" target="blank"><img align="center" src="https://github.com/spctr01/spctr01/tree/master/assetslinkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="mailto:rakshit.rk55@gmail.com" target="blank"><img align="center" src="https://github.com/spctr01/spctr01/blob/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 
 </p>
 
